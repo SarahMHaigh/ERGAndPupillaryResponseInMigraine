@@ -9,6 +9,9 @@ Published in: Carson C Smith, Shane F H Trivitt, Matthew J Cummings, Amber M Tha
 OSF_Pupil.m reads in the other Matlab scripts to compute difference in pupillary diameter between migraine and headache-free individuals. The spreadsheet contains all the data from the study - check tabs for different protocols.
 
 Project doi: https://doi.org/10.17605/OSF.IO/Q6R3W
+
 ____
+
 Questions? Email shaigh at unr dot edu
+
 For more information, see: https://sarahmhaigh.github.io/
